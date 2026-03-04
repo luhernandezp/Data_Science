@@ -1,0 +1,7 @@
+"0","#| eval: false"
+"0","#| include: false"
+"0","plot_forecast(fore_z,"
+"0","              title = ""Pronósticos a 36 meses de Z"", "
+"0","              Ytitle = ""Precio mensual"","
+"0","              Xtitle = ""Fecha"","
+"0","              color = ""#f05454"")"

@@ -1,0 +1,4 @@
+"0","#| echo: false"
+"0","Z %>% ggplot(aes(x = Date, y = Price))+"
+"0","  geom_line(colour = '#f05454') +"
+"0","  theme_minimal()"

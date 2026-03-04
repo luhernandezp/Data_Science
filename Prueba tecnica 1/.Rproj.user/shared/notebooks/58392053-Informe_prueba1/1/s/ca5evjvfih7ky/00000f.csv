@@ -1,0 +1,7 @@
+"0","# Calcular los costos proyectados"
+"0",""
+"0","# Equipo 1"
+"0","C1_hat <- 0.2 * X_hat + 0.8 * Y_hat"
+"0",""
+"0","# Equipo2"
+"0","C2_hat <- (X_hat + Y_hat + Z_hat) / 3"

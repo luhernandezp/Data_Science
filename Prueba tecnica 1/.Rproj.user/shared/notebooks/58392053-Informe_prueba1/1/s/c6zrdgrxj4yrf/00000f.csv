@@ -1,0 +1,5 @@
+"0","# Cargue de los datos"
+"0",""
+"0","X <- read.csv(""Datos/X.csv"")"
+"0","Y <- read.csv2(""Datos/Y.csv"", stringsAsFactors = F)"
+"0","Z <- read.csv(""Datos/Z.csv"")"

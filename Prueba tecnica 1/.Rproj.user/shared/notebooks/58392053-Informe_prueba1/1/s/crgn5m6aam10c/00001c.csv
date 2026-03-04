@@ -1,0 +1,6 @@
+"0","#| include: false"
+"0","resultado <- data.frame("
+"0","  ""Mes"" = 1:36,"
+"0","  ""C1"" = C1_hat,"
+"0","  ""C2"" = C2_hat"
+"0",")"

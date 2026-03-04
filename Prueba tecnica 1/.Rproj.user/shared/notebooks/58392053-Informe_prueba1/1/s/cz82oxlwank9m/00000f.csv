@@ -1,0 +1,3 @@
+"0","#| echo: false"
+"0","# Entrenamiento para  Z"
+"0","modelo1z.train <- auto.arima(train_z, stepwise = FALSE, approximation = FALSE)"

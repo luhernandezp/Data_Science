@@ -1,0 +1,4 @@
+"0","#| echo: false"
+"0","df_mensual_Z %>% ggplot(aes(x = year_month, y = Price))+"
+"0","  geom_line(colour = '#f05454') +"
+"0","  theme_minimal()"

@@ -1,0 +1,2 @@
+"0","#| echo: false"
+"0","fore_y <- forecast(modelo_y, h = 36)"

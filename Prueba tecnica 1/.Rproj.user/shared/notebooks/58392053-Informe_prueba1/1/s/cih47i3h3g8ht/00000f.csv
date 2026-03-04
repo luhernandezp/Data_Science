@@ -1,0 +1,2 @@
+"0","# Entrenamiento to del modelo de Holt-Winters para Y"
+"0","modelo_hw_y <- HoltWinters(train_y)"

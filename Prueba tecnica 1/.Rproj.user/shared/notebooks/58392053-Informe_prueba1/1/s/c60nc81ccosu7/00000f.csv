@@ -1,0 +1,8 @@
+"0","#| echo: false"
+"0","# Volviendo un objeto ts cada serie mensual."
+"0",""
+"0","serie_tsx <- ts(df_mensual_x$Price, start = c(1988, 06), end = c(2024, 04), frequency = 12)   "
+"0",""
+"0","serie_tsy <- ts(df_mensual_y$Price, start = c(2006, 07), end = c(2023, 09), frequency = 12)"
+"0",""
+"0","serie_tsz <- ts(df_mensual_Z$Price, start = c(2010, 01), end = c(2023, 08), frequency = 12)"

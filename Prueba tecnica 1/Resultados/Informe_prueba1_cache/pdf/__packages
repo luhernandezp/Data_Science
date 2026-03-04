@@ -1,0 +1,17 @@
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+lubridate
+magrittr
+TSstudio
+forecast
+ggthemes
+paletteer
+viridisLite
+viridis
